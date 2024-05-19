@@ -1,0 +1,13 @@
+ Volume in drive C is windows
+ Volume Serial Number is 60ED-B82C
+
+ Directory of C:\Users\sanka\OneDrive\Desktop\My_GitProject
+
+19-05-2024  11:24 AM    <DIR>          .
+19-05-2024  11:24 AM    <DIR>          ..
+19-05-2024  09:45 AM                21 index.html
+19-05-2024  11:24 AM                 0 newfile.txt
+19-05-2024  09:31 AM                29 text.txt
+19-05-2024  11:07 AM               466 text2.txt
+               4 File(s)            516 bytes
+               2 Dir(s)   6,664,667,136 bytes free
